@@ -1,0 +1,736 @@
+Date,Month,Type,Category,Description,Amount_EUR,Frequency
+2024-11-02,2024-11,Expense,Housing,Rent,1060.0,Monthly
+2024-11-03,2024-11,Expense,Groceries,Supermarket shopping,111.79,Variable
+2024-11-04,2024-11,Expense,Housing,Condominium fees,115.0,Monthly
+2024-11-05,2024-11,Expense,Dining out,Restaurant or takeaway,60.36,Variable
+2024-11-05,2024-11,Income,Rental income,Apartment rental income,580.0,Monthly
+2024-11-06,2024-11,Expense,Transport,"Fuel, taxi or local transport",37.43,Variable
+2024-11-07,2024-11,Expense,Utilities,Electricity bill,98.32,Monthly
+2024-11-08,2024-11,Expense,Utilities,Gas bill,91.18,Monthly
+2024-11-09,2024-11,Expense,Utilities,Water bill,31.59,Monthly
+2024-11-10,2024-11,Expense,Groceries,Supermarket shopping,87.99,Variable
+2024-11-10,2024-11,Expense,Utilities,Home internet,31.9,Monthly
+2024-11-11,2024-11,Expense,Utilities,Mobile phone,15.9,Monthly
+2024-11-12,2024-11,Expense,Household,Cleaning and household supplies,33.71,Variable
+2024-11-13,2024-11,Expense,Transport,Public transport pass,39.0,Monthly
+2024-11-14,2024-11,Expense,Dining out,Restaurant or takeaway,55.64,Variable
+2024-11-14,2024-11,Expense,Insurance,Health insurance premium,78.0,Monthly
+2024-11-15,2024-11,Expense,Subscriptions,Video streaming,13.99,Monthly
+2024-11-15,2024-11,Expense,Subscriptions,Music streaming,10.99,Monthly
+2024-11-16,2024-11,Expense,Subscriptions,Cloud storage,2.99,Monthly
+2024-11-17,2024-11,Expense,Groceries,Supermarket shopping,113.13,Variable
+2024-11-17,2024-11,Expense,Subscriptions,Gym membership,49.0,Monthly
+2024-11-18,2024-11,Expense,Financial services,Bank account fees,6.0,Monthly
+2024-11-20,2024-11,Expense,Transport,"Fuel, taxi or local transport",35.78,Variable
+2024-11-22,2024-11,Expense,Personal care,Hairdresser and personal care,25.5,Variable
+2024-11-23,2024-11,Expense,Dining out,Restaurant or takeaway,29.4,Variable
+2024-11-24,2024-11,Expense,Groceries,Supermarket shopping,98.64,Variable
+2024-11-24,2024-11,Expense,Leisure,"Cinema, books and activities",53.2,Variable
+2024-11-27,2024-11,Income,Employment,Net monthly salary,2900.0,Monthly
+2024-12-02,2024-12,Expense,Housing,Rent,1060.0,Monthly
+2024-12-03,2024-12,Expense,Groceries,Supermarket shopping,70.79,Variable
+2024-12-04,2024-12,Expense,Housing,Condominium fees,115.0,Monthly
+2024-12-05,2024-12,Expense,Dining out,Restaurant or takeaway,34.34,Variable
+2024-12-05,2024-12,Income,Rental income,Apartment rental income,580.0,Monthly
+2024-12-06,2024-12,Expense,Transport,"Fuel, taxi or local transport",59.58,Variable
+2024-12-07,2024-12,Expense,Utilities,Electricity bill,67.37,Monthly
+2024-12-08,2024-12,Expense,Utilities,Gas bill,155.34,Monthly
+2024-12-09,2024-12,Expense,Utilities,Water bill,28.88,Monthly
+2024-12-10,2024-12,Expense,Groceries,Supermarket shopping,91.2,Variable
+2024-12-10,2024-12,Expense,Utilities,Home internet,31.9,Monthly
+2024-12-11,2024-12,Expense,Utilities,Mobile phone,15.9,Monthly
+2024-12-12,2024-12,Expense,Household,Cleaning and household supplies,40.77,Variable
+2024-12-13,2024-12,Expense,Transport,Public transport pass,39.0,Monthly
+2024-12-14,2024-12,Expense,Dining out,Restaurant or takeaway,59.44,Variable
+2024-12-14,2024-12,Expense,Insurance,Health insurance premium,78.0,Monthly
+2024-12-15,2024-12,Expense,Subscriptions,Video streaming,13.99,Monthly
+2024-12-15,2024-12,Expense,Subscriptions,Music streaming,10.99,Monthly
+2024-12-16,2024-12,Expense,Subscriptions,Cloud storage,2.99,Monthly
+2024-12-17,2024-12,Expense,Groceries,Supermarket shopping,87.71,Variable
+2024-12-17,2024-12,Expense,Subscriptions,Gym membership,49.0,Monthly
+2024-12-18,2024-12,Expense,Financial services,Bank account fees,6.0,Monthly
+2024-12-20,2024-12,Expense,Transport,"Fuel, taxi or local transport",32.17,Variable
+2024-12-20,2024-12,Income,Employment,Year-end bonus,1650.0,Annual
+2024-12-21,2024-12,Expense,Shopping,Clothing and personal purchases,36.06,Occasional
+2024-12-22,2024-12,Expense,Personal care,Hairdresser and personal care,30.87,Variable
+2024-12-23,2024-12,Expense,Dining out,Restaurant or takeaway,29.45,Variable
+2024-12-23,2024-12,Expense,Gifts,Holiday gifts and celebrations,379.72,Annual
+2024-12-24,2024-12,Expense,Groceries,Supermarket shopping,73.33,Variable
+2024-12-24,2024-12,Expense,Leisure,"Cinema, books and activities",20.83,Variable
+2024-12-27,2024-12,Income,Employment,Net monthly salary,2900.0,Monthly
+2025-01-02,2025-01,Expense,Housing,Rent,1060.0,Monthly
+2025-01-03,2025-01,Expense,Groceries,Supermarket shopping,97.84,Variable
+2025-01-04,2025-01,Expense,Housing,Condominium fees,115.0,Monthly
+2025-01-05,2025-01,Expense,Dining out,Restaurant or takeaway,35.59,Variable
+2025-01-05,2025-01,Income,Rental income,Apartment rental income,580.0,Monthly
+2025-01-06,2025-01,Expense,Transport,"Fuel, taxi or local transport",18.15,Variable
+2025-01-07,2025-01,Expense,Utilities,Electricity bill,100.43,Monthly
+2025-01-08,2025-01,Expense,Utilities,Gas bill,153.32,Monthly
+2025-01-09,2025-01,Expense,Utilities,Water bill,25.76,Monthly
+2025-01-10,2025-01,Expense,Groceries,Supermarket shopping,93.27,Variable
+2025-01-10,2025-01,Expense,Utilities,Home internet,31.9,Monthly
+2025-01-11,2025-01,Expense,Insurance,Car insurance installment,320.0,Semiannual
+2025-01-11,2025-01,Expense,Utilities,Mobile phone,15.9,Monthly
+2025-01-12,2025-01,Expense,Household,Cleaning and household supplies,42.7,Variable
+2025-01-13,2025-01,Expense,Transport,Public transport pass,39.0,Monthly
+2025-01-14,2025-01,Expense,Dining out,Restaurant or takeaway,28.76,Variable
+2025-01-14,2025-01,Expense,Insurance,Health insurance premium,78.0,Monthly
+2025-01-15,2025-01,Expense,Subscriptions,Video streaming,13.99,Monthly
+2025-01-15,2025-01,Expense,Subscriptions,Music streaming,10.99,Monthly
+2025-01-16,2025-01,Expense,Subscriptions,Cloud storage,2.99,Monthly
+2025-01-17,2025-01,Expense,Groceries,Supermarket shopping,91.07,Variable
+2025-01-17,2025-01,Expense,Subscriptions,Gym membership,49.0,Monthly
+2025-01-18,2025-01,Expense,Financial services,Bank account fees,6.0,Monthly
+2025-01-20,2025-01,Expense,Transport,"Fuel, taxi or local transport",36.47,Variable
+2025-01-22,2025-01,Expense,Personal care,Hairdresser and personal care,60.6,Variable
+2025-01-23,2025-01,Expense,Dining out,Restaurant or takeaway,49.38,Variable
+2025-01-24,2025-01,Expense,Groceries,Supermarket shopping,75.37,Variable
+2025-01-24,2025-01,Expense,Leisure,"Cinema, books and activities",81.73,Variable
+2025-01-27,2025-01,Income,Employment,Net monthly salary,2900.0,Monthly
+2025-02-02,2025-02,Expense,Housing,Rent,1060.0,Monthly
+2025-02-03,2025-02,Expense,Groceries,Supermarket shopping,81.52,Variable
+2025-02-04,2025-02,Expense,Housing,Condominium fees,115.0,Monthly
+2025-02-05,2025-02,Expense,Dining out,Restaurant or takeaway,47.45,Variable
+2025-02-05,2025-02,Income,Rental income,Apartment rental income,580.0,Monthly
+2025-02-06,2025-02,Expense,Transport,"Fuel, taxi or local transport",40.54,Variable
+2025-02-07,2025-02,Expense,Utilities,Electricity bill,60.27,Monthly
+2025-02-08,2025-02,Expense,Utilities,Gas bill,90.99,Monthly
+2025-02-09,2025-02,Expense,Utilities,Water bill,29.19,Monthly
+2025-02-10,2025-02,Expense,Groceries,Supermarket shopping,83.61,Variable
+2025-02-10,2025-02,Expense,Utilities,Home internet,31.9,Monthly
+2025-02-11,2025-02,Expense,Utilities,Mobile phone,15.9,Monthly
+2025-02-12,2025-02,Expense,Household,Cleaning and household supplies,29.8,Variable
+2025-02-12,2025-02,Income,Refunds,Expense reimbursement or tax refund,196.01,Occasional
+2025-02-13,2025-02,Expense,Transport,Public transport pass,39.0,Monthly
+2025-02-14,2025-02,Expense,Dining out,Restaurant or takeaway,18.68,Variable
+2025-02-14,2025-02,Expense,Insurance,Health insurance premium,78.0,Monthly
+2025-02-15,2025-02,Expense,Subscriptions,Video streaming,13.99,Monthly
+2025-02-15,2025-02,Expense,Subscriptions,Music streaming,10.99,Monthly
+2025-02-16,2025-02,Expense,Subscriptions,Cloud storage,2.99,Monthly
+2025-02-17,2025-02,Expense,Groceries,Supermarket shopping,104.89,Variable
+2025-02-17,2025-02,Expense,Subscriptions,Gym membership,49.0,Monthly
+2025-02-18,2025-02,Expense,Financial services,Bank account fees,6.0,Monthly
+2025-02-18,2025-02,Expense,Healthcare,Pharmacy or medical visit,53.19,Occasional
+2025-02-20,2025-02,Expense,Transport,"Fuel, taxi or local transport",25.78,Variable
+2025-02-21,2025-02,Expense,Shopping,Clothing and personal purchases,157.09,Occasional
+2025-02-22,2025-02,Expense,Personal care,Hairdresser and personal care,54.39,Variable
+2025-02-23,2025-02,Expense,Dining out,Restaurant or takeaway,28.7,Variable
+2025-02-24,2025-02,Expense,Groceries,Supermarket shopping,102.23,Variable
+2025-02-24,2025-02,Expense,Leisure,"Cinema, books and activities",31.99,Variable
+2025-02-27,2025-02,Income,Employment,Net monthly salary,2900.0,Monthly
+2025-03-02,2025-03,Expense,Housing,Rent,1060.0,Monthly
+2025-03-03,2025-03,Expense,Groceries,Supermarket shopping,92.31,Variable
+2025-03-04,2025-03,Expense,Housing,Condominium fees,115.0,Monthly
+2025-03-05,2025-03,Expense,Dining out,Restaurant or takeaway,21.26,Variable
+2025-03-05,2025-03,Income,Rental income,Apartment rental income,580.0,Monthly
+2025-03-06,2025-03,Expense,Transport,"Fuel, taxi or local transport",61.76,Variable
+2025-03-07,2025-03,Expense,Utilities,Electricity bill,84.28,Monthly
+2025-03-08,2025-03,Expense,Utilities,Gas bill,55.38,Monthly
+2025-03-09,2025-03,Expense,Transport,Car maintenance and inspection,225.24,Annual
+2025-03-09,2025-03,Expense,Utilities,Water bill,29.45,Monthly
+2025-03-10,2025-03,Expense,Groceries,Supermarket shopping,81.52,Variable
+2025-03-10,2025-03,Expense,Utilities,Home internet,31.9,Monthly
+2025-03-11,2025-03,Expense,Utilities,Mobile phone,15.9,Monthly
+2025-03-12,2025-03,Expense,Household,Cleaning and household supplies,30.15,Variable
+2025-03-13,2025-03,Expense,Transport,Public transport pass,39.0,Monthly
+2025-03-14,2025-03,Expense,Dining out,Restaurant or takeaway,41.87,Variable
+2025-03-14,2025-03,Expense,Insurance,Health insurance premium,78.0,Monthly
+2025-03-15,2025-03,Expense,Subscriptions,Video streaming,13.99,Monthly
+2025-03-15,2025-03,Expense,Subscriptions,Music streaming,10.99,Monthly
+2025-03-16,2025-03,Expense,Subscriptions,Cloud storage,2.99,Monthly
+2025-03-17,2025-03,Expense,Groceries,Supermarket shopping,87.36,Variable
+2025-03-17,2025-03,Expense,Subscriptions,Gym membership,49.0,Monthly
+2025-03-18,2025-03,Expense,Financial services,Bank account fees,6.0,Monthly
+2025-03-18,2025-03,Expense,Healthcare,Pharmacy or medical visit,87.05,Occasional
+2025-03-20,2025-03,Expense,Transport,"Fuel, taxi or local transport",22.63,Variable
+2025-03-20,2025-03,Expense,Unexpected expenses,Dental treatment,520.0,Occasional
+2025-03-21,2025-03,Expense,Shopping,Clothing and personal purchases,94.14,Occasional
+2025-03-22,2025-03,Expense,Personal care,Hairdresser and personal care,33.09,Variable
+2025-03-23,2025-03,Expense,Dining out,Restaurant or takeaway,61.29,Variable
+2025-03-24,2025-03,Expense,Groceries,Supermarket shopping,98.31,Variable
+2025-03-24,2025-03,Expense,Leisure,"Cinema, books and activities",90.16,Variable
+2025-03-27,2025-03,Income,Employment,Net monthly salary,2900.0,Monthly
+2025-04-02,2025-04,Expense,Housing,Rent,1060.0,Monthly
+2025-04-03,2025-04,Expense,Groceries,Supermarket shopping,102.91,Variable
+2025-04-04,2025-04,Expense,Housing,Condominium fees,115.0,Monthly
+2025-04-05,2025-04,Expense,Dining out,Restaurant or takeaway,18.68,Variable
+2025-04-05,2025-04,Income,Rental income,Apartment rental income,580.0,Monthly
+2025-04-06,2025-04,Expense,Transport,"Fuel, taxi or local transport",44.65,Variable
+2025-04-07,2025-04,Expense,Utilities,Electricity bill,62.3,Monthly
+2025-04-08,2025-04,Expense,Utilities,Gas bill,44.33,Monthly
+2025-04-09,2025-04,Expense,Utilities,Water bill,25.95,Monthly
+2025-04-10,2025-04,Expense,Groceries,Supermarket shopping,98.95,Variable
+2025-04-10,2025-04,Expense,Utilities,Home internet,31.9,Monthly
+2025-04-11,2025-04,Expense,Utilities,Mobile phone,15.9,Monthly
+2025-04-12,2025-04,Expense,Household,Cleaning and household supplies,19.8,Variable
+2025-04-13,2025-04,Expense,Transport,Public transport pass,39.0,Monthly
+2025-04-14,2025-04,Expense,Dining out,Restaurant or takeaway,43.59,Variable
+2025-04-14,2025-04,Expense,Insurance,Health insurance premium,78.0,Monthly
+2025-04-15,2025-04,Expense,Subscriptions,Video streaming,13.99,Monthly
+2025-04-15,2025-04,Expense,Subscriptions,Music streaming,10.99,Monthly
+2025-04-16,2025-04,Expense,Subscriptions,Cloud storage,2.99,Monthly
+2025-04-17,2025-04,Expense,Groceries,Supermarket shopping,101.77,Variable
+2025-04-17,2025-04,Expense,Subscriptions,Gym membership,49.0,Monthly
+2025-04-18,2025-04,Expense,Financial services,Bank account fees,6.0,Monthly
+2025-04-20,2025-04,Expense,Taxes,Local property taxes and fees,410.0,Annual
+2025-04-20,2025-04,Expense,Transport,"Fuel, taxi or local transport",21.59,Variable
+2025-04-21,2025-04,Expense,Shopping,Clothing and personal purchases,118.35,Occasional
+2025-04-22,2025-04,Expense,Personal care,Hairdresser and personal care,63.38,Variable
+2025-04-23,2025-04,Expense,Dining out,Restaurant or takeaway,23.82,Variable
+2025-04-24,2025-04,Expense,Groceries,Supermarket shopping,96.24,Variable
+2025-04-24,2025-04,Expense,Leisure,"Cinema, books and activities",22.72,Variable
+2025-04-26,2025-04,Expense,Housing,Urgent home repairs,1850.0,Occasional
+2025-04-27,2025-04,Income,Employment,Net monthly salary,2900.0,Monthly
+2025-05-02,2025-05,Expense,Housing,Rent,1060.0,Monthly
+2025-05-03,2025-05,Expense,Groceries,Supermarket shopping,71.92,Variable
+2025-05-04,2025-05,Expense,Housing,Condominium fees,115.0,Monthly
+2025-05-05,2025-05,Expense,Dining out,Restaurant or takeaway,40.57,Variable
+2025-05-05,2025-05,Income,Rental income,Apartment rental income,580.0,Monthly
+2025-05-06,2025-05,Expense,Transport,"Fuel, taxi or local transport",50.07,Variable
+2025-05-07,2025-05,Expense,Utilities,Electricity bill,76.56,Monthly
+2025-05-08,2025-05,Expense,Utilities,Gas bill,56.82,Monthly
+2025-05-09,2025-05,Expense,Utilities,Water bill,27.05,Monthly
+2025-05-10,2025-05,Expense,Groceries,Supermarket shopping,68.93,Variable
+2025-05-10,2025-05,Expense,Utilities,Home internet,31.9,Monthly
+2025-05-11,2025-05,Expense,Utilities,Mobile phone,15.9,Monthly
+2025-05-12,2025-05,Expense,Household,Cleaning and household supplies,36.77,Variable
+2025-05-13,2025-05,Expense,Transport,Public transport pass,39.0,Monthly
+2025-05-14,2025-05,Expense,Dining out,Restaurant or takeaway,55.96,Variable
+2025-05-14,2025-05,Expense,Insurance,Health insurance premium,78.0,Monthly
+2025-05-15,2025-05,Expense,Subscriptions,Video streaming,13.99,Monthly
+2025-05-15,2025-05,Expense,Subscriptions,Music streaming,10.99,Monthly
+2025-05-16,2025-05,Expense,Subscriptions,Cloud storage,2.99,Monthly
+2025-05-17,2025-05,Expense,Groceries,Supermarket shopping,87.39,Variable
+2025-05-17,2025-05,Expense,Subscriptions,Gym membership,49.0,Monthly
+2025-05-18,2025-05,Expense,Financial services,Bank account fees,6.0,Monthly
+2025-05-18,2025-05,Expense,Healthcare,Pharmacy or medical visit,81.49,Occasional
+2025-05-20,2025-05,Expense,Transport,"Fuel, taxi or local transport",45.94,Variable
+2025-05-22,2025-05,Expense,Personal care,Hairdresser and personal care,43.2,Variable
+2025-05-23,2025-05,Expense,Dining out,Restaurant or takeaway,61.95,Variable
+2025-05-24,2025-05,Expense,Groceries,Supermarket shopping,88.37,Variable
+2025-05-24,2025-05,Expense,Leisure,"Cinema, books and activities",29.86,Variable
+2025-05-27,2025-05,Income,Employment,Net monthly salary,2900.0,Monthly
+2025-06-02,2025-06,Expense,Housing,Rent,1060.0,Monthly
+2025-06-03,2025-06,Expense,Groceries,Supermarket shopping,102.97,Variable
+2025-06-04,2025-06,Expense,Housing,Condominium fees,115.0,Monthly
+2025-06-05,2025-06,Expense,Dining out,Restaurant or takeaway,59.19,Variable
+2025-06-05,2025-06,Income,Rental income,Apartment rental income,580.0,Monthly
+2025-06-06,2025-06,Expense,Transport,"Fuel, taxi or local transport",26.91,Variable
+2025-06-07,2025-06,Expense,Utilities,Electricity bill,68.3,Monthly
+2025-06-08,2025-06,Expense,Utilities,Gas bill,46.12,Monthly
+2025-06-09,2025-06,Expense,Utilities,Water bill,26.57,Monthly
+2025-06-10,2025-06,Expense,Groceries,Supermarket shopping,66.72,Variable
+2025-06-10,2025-06,Expense,Utilities,Home internet,31.9,Monthly
+2025-06-11,2025-06,Expense,Utilities,Mobile phone,15.9,Monthly
+2025-06-12,2025-06,Expense,Household,Cleaning and household supplies,50.87,Variable
+2025-06-13,2025-06,Expense,Transport,Public transport pass,39.0,Monthly
+2025-06-14,2025-06,Expense,Dining out,Restaurant or takeaway,42.29,Variable
+2025-06-14,2025-06,Expense,Insurance,Health insurance premium,78.0,Monthly
+2025-06-15,2025-06,Expense,Subscriptions,Video streaming,13.99,Monthly
+2025-06-15,2025-06,Expense,Subscriptions,Music streaming,10.99,Monthly
+2025-06-16,2025-06,Expense,Subscriptions,Cloud storage,2.99,Monthly
+2025-06-17,2025-06,Expense,Groceries,Supermarket shopping,98.25,Variable
+2025-06-17,2025-06,Expense,Subscriptions,Gym membership,49.0,Monthly
+2025-06-18,2025-06,Expense,Financial services,Bank account fees,6.0,Monthly
+2025-06-20,2025-06,Expense,Transport,"Fuel, taxi or local transport",61.61,Variable
+2025-06-21,2025-06,Expense,Shopping,Clothing and personal purchases,172.81,Occasional
+2025-06-22,2025-06,Expense,Personal care,Hairdresser and personal care,60.45,Variable
+2025-06-23,2025-06,Expense,Dining out,Restaurant or takeaway,54.0,Variable
+2025-06-24,2025-06,Expense,Groceries,Supermarket shopping,66.76,Variable
+2025-06-24,2025-06,Expense,Leisure,"Cinema, books and activities",50.88,Variable
+2025-06-25,2025-06,Expense,Technology,Laptop or smartphone replacement,950.0,Occasional
+2025-06-25,2025-06,Income,Employment,Performance bonus,850.0,Annual
+2025-06-27,2025-06,Income,Employment,Net monthly salary,2900.0,Monthly
+2025-07-02,2025-07,Expense,Housing,Rent,1060.0,Monthly
+2025-07-03,2025-07,Expense,Groceries,Supermarket shopping,100.13,Variable
+2025-07-04,2025-07,Expense,Housing,Condominium fees,115.0,Monthly
+2025-07-05,2025-07,Expense,Dining out,Restaurant or takeaway,27.74,Variable
+2025-07-05,2025-07,Income,Rental income,Apartment rental income,580.0,Monthly
+2025-07-06,2025-07,Expense,Transport,"Fuel, taxi or local transport",35.92,Variable
+2025-07-07,2025-07,Expense,Utilities,Electricity bill,100.22,Monthly
+2025-07-08,2025-07,Expense,Utilities,Gas bill,39.86,Monthly
+2025-07-09,2025-07,Expense,Utilities,Water bill,24.28,Monthly
+2025-07-10,2025-07,Expense,Groceries,Supermarket shopping,85.24,Variable
+2025-07-10,2025-07,Expense,Utilities,Home internet,31.9,Monthly
+2025-07-11,2025-07,Expense,Insurance,Car insurance installment,320.0,Semiannual
+2025-07-11,2025-07,Expense,Utilities,Mobile phone,15.9,Monthly
+2025-07-12,2025-07,Expense,Household,Cleaning and household supplies,49.89,Variable
+2025-07-13,2025-07,Expense,Transport,Public transport pass,39.0,Monthly
+2025-07-14,2025-07,Expense,Dining out,Restaurant or takeaway,22.18,Variable
+2025-07-14,2025-07,Expense,Insurance,Health insurance premium,78.0,Monthly
+2025-07-15,2025-07,Expense,Subscriptions,Video streaming,13.99,Monthly
+2025-07-15,2025-07,Expense,Subscriptions,Music streaming,10.99,Monthly
+2025-07-16,2025-07,Expense,Subscriptions,Cloud storage,2.99,Monthly
+2025-07-17,2025-07,Expense,Groceries,Supermarket shopping,77.9,Variable
+2025-07-17,2025-07,Expense,Subscriptions,Gym membership,49.0,Monthly
+2025-07-18,2025-07,Expense,Financial services,Bank account fees,6.0,Monthly
+2025-07-18,2025-07,Expense,Healthcare,Pharmacy or medical visit,76.23,Occasional
+2025-07-20,2025-07,Expense,Transport,"Fuel, taxi or local transport",48.62,Variable
+2025-07-21,2025-07,Expense,Shopping,Clothing and personal purchases,91.97,Occasional
+2025-07-22,2025-07,Expense,Personal care,Hairdresser and personal care,30.54,Variable
+2025-07-23,2025-07,Expense,Dining out,Restaurant or takeaway,22.99,Variable
+2025-07-24,2025-07,Expense,Groceries,Supermarket shopping,91.35,Variable
+2025-07-24,2025-07,Expense,Leisure,"Cinema, books and activities",32.07,Variable
+2025-07-27,2025-07,Income,Employment,Net monthly salary,2900.0,Monthly
+2025-08-02,2025-08,Expense,Housing,Rent,1060.0,Monthly
+2025-08-03,2025-08,Expense,Groceries,Supermarket shopping,104.96,Variable
+2025-08-04,2025-08,Expense,Housing,Condominium fees,115.0,Monthly
+2025-08-05,2025-08,Expense,Dining out,Restaurant or takeaway,30.12,Variable
+2025-08-05,2025-08,Income,Rental income,Apartment rental income,580.0,Monthly
+2025-08-06,2025-08,Expense,Transport,"Fuel, taxi or local transport",53.27,Variable
+2025-08-07,2025-08,Expense,Utilities,Electricity bill,72.22,Monthly
+2025-08-08,2025-08,Expense,Utilities,Gas bill,36.13,Monthly
+2025-08-09,2025-08,Expense,Utilities,Water bill,31.31,Monthly
+2025-08-10,2025-08,Expense,Groceries,Supermarket shopping,72.94,Variable
+2025-08-10,2025-08,Expense,Utilities,Home internet,31.9,Monthly
+2025-08-11,2025-08,Expense,Utilities,Mobile phone,15.9,Monthly
+2025-08-12,2025-08,Expense,Household,Cleaning and household supplies,24.12,Variable
+2025-08-12,2025-08,Income,Refunds,Expense reimbursement or tax refund,449.2,Occasional
+2025-08-13,2025-08,Expense,Transport,Public transport pass,39.0,Monthly
+2025-08-14,2025-08,Expense,Dining out,Restaurant or takeaway,37.27,Variable
+2025-08-14,2025-08,Expense,Insurance,Health insurance premium,78.0,Monthly
+2025-08-14,2025-08,Expense,Travel,Summer holiday accommodation and travel,1213.78,Annual
+2025-08-15,2025-08,Expense,Subscriptions,Video streaming,13.99,Monthly
+2025-08-15,2025-08,Expense,Subscriptions,Music streaming,10.99,Monthly
+2025-08-16,2025-08,Expense,Subscriptions,Cloud storage,2.99,Monthly
+2025-08-17,2025-08,Expense,Groceries,Supermarket shopping,76.74,Variable
+2025-08-17,2025-08,Expense,Subscriptions,Gym membership,49.0,Monthly
+2025-08-18,2025-08,Expense,Financial services,Bank account fees,6.0,Monthly
+2025-08-18,2025-08,Expense,Healthcare,Pharmacy or medical visit,53.57,Occasional
+2025-08-20,2025-08,Expense,Transport,"Fuel, taxi or local transport",54.04,Variable
+2025-08-21,2025-08,Expense,Shopping,Clothing and personal purchases,129.88,Occasional
+2025-08-22,2025-08,Expense,Personal care,Hairdresser and personal care,58.63,Variable
+2025-08-23,2025-08,Expense,Dining out,Restaurant or takeaway,31.9,Variable
+2025-08-24,2025-08,Expense,Groceries,Supermarket shopping,77.39,Variable
+2025-08-24,2025-08,Expense,Leisure,"Cinema, books and activities",64.6,Variable
+2025-08-27,2025-08,Income,Employment,Net monthly salary,2900.0,Monthly
+2025-09-02,2025-09,Expense,Housing,Rent,1060.0,Monthly
+2025-09-03,2025-09,Expense,Groceries,Supermarket shopping,107.12,Variable
+2025-09-04,2025-09,Expense,Housing,Condominium fees,115.0,Monthly
+2025-09-05,2025-09,Expense,Dining out,Restaurant or takeaway,27.03,Variable
+2025-09-05,2025-09,Income,Rental income,Apartment rental income,580.0,Monthly
+2025-09-06,2025-09,Expense,Transport,"Fuel, taxi or local transport",29.28,Variable
+2025-09-07,2025-09,Expense,Utilities,Electricity bill,102.3,Monthly
+2025-09-08,2025-09,Expense,Utilities,Gas bill,42.34,Monthly
+2025-09-09,2025-09,Expense,Utilities,Water bill,19.35,Monthly
+2025-09-10,2025-09,Expense,Education,Professional course or training,549.54,Annual
+2025-09-10,2025-09,Expense,Groceries,Supermarket shopping,97.92,Variable
+2025-09-10,2025-09,Expense,Utilities,Home internet,31.9,Monthly
+2025-09-11,2025-09,Expense,Utilities,Mobile phone,15.9,Monthly
+2025-09-12,2025-09,Expense,Household,Cleaning and household supplies,43.46,Variable
+2025-09-13,2025-09,Expense,Transport,Public transport pass,39.0,Monthly
+2025-09-14,2025-09,Expense,Dining out,Restaurant or takeaway,51.28,Variable
+2025-09-14,2025-09,Expense,Insurance,Health insurance premium,78.0,Monthly
+2025-09-15,2025-09,Expense,Subscriptions,Video streaming,13.99,Monthly
+2025-09-15,2025-09,Expense,Subscriptions,Music streaming,10.99,Monthly
+2025-09-16,2025-09,Expense,Subscriptions,Cloud storage,2.99,Monthly
+2025-09-17,2025-09,Expense,Groceries,Supermarket shopping,92.34,Variable
+2025-09-17,2025-09,Expense,Subscriptions,Gym membership,49.0,Monthly
+2025-09-18,2025-09,Expense,Financial services,Bank account fees,6.0,Monthly
+2025-09-18,2025-09,Expense,Healthcare,Pharmacy or medical visit,43.27,Occasional
+2025-09-20,2025-09,Expense,Transport,"Fuel, taxi or local transport",61.43,Variable
+2025-09-21,2025-09,Expense,Shopping,Clothing and personal purchases,95.39,Occasional
+2025-09-22,2025-09,Expense,Personal care,Hairdresser and personal care,60.12,Variable
+2025-09-23,2025-09,Expense,Dining out,Restaurant or takeaway,43.97,Variable
+2025-09-24,2025-09,Expense,Groceries,Supermarket shopping,110.93,Variable
+2025-09-24,2025-09,Expense,Leisure,"Cinema, books and activities",43.68,Variable
+2025-09-27,2025-09,Income,Employment,Net monthly salary,2900.0,Monthly
+2025-09-28,2025-09,Expense,Travel,Weekend trip,409.05,Occasional
+2025-10-02,2025-10,Expense,Housing,Rent,1060.0,Monthly
+2025-10-03,2025-10,Expense,Groceries,Supermarket shopping,87.73,Variable
+2025-10-04,2025-10,Expense,Housing,Condominium fees,115.0,Monthly
+2025-10-05,2025-10,Expense,Dining out,Restaurant or takeaway,31.25,Variable
+2025-10-05,2025-10,Income,Rental income,Apartment rental income,580.0,Monthly
+2025-10-06,2025-10,Expense,Transport,"Fuel, taxi or local transport",45.74,Variable
+2025-10-07,2025-10,Expense,Utilities,Electricity bill,78.93,Monthly
+2025-10-08,2025-10,Expense,Utilities,Gas bill,36.73,Monthly
+2025-10-09,2025-10,Expense,Utilities,Water bill,23.63,Monthly
+2025-10-10,2025-10,Expense,Groceries,Supermarket shopping,110.94,Variable
+2025-10-10,2025-10,Expense,Utilities,Home internet,31.9,Monthly
+2025-10-11,2025-10,Expense,Utilities,Mobile phone,15.9,Monthly
+2025-10-12,2025-10,Expense,Household,Cleaning and household supplies,54.45,Variable
+2025-10-13,2025-10,Expense,Transport,Public transport pass,39.0,Monthly
+2025-10-14,2025-10,Expense,Dining out,Restaurant or takeaway,52.33,Variable
+2025-10-14,2025-10,Expense,Insurance,Health insurance premium,78.0,Monthly
+2025-10-15,2025-10,Expense,Subscriptions,Video streaming,13.99,Monthly
+2025-10-15,2025-10,Expense,Subscriptions,Music streaming,10.99,Monthly
+2025-10-16,2025-10,Expense,Subscriptions,Cloud storage,2.99,Monthly
+2025-10-17,2025-10,Expense,Groceries,Supermarket shopping,110.06,Variable
+2025-10-17,2025-10,Expense,Subscriptions,Gym membership,49.0,Monthly
+2025-10-18,2025-10,Expense,Financial services,Bank account fees,6.0,Monthly
+2025-10-18,2025-10,Expense,Healthcare,Pharmacy or medical visit,93.25,Occasional
+2025-10-20,2025-10,Expense,Transport,"Fuel, taxi or local transport",23.28,Variable
+2025-10-20,2025-10,Expense,Unexpected expenses,Appliance replacement,740.0,Occasional
+2025-10-21,2025-10,Expense,Shopping,Clothing and personal purchases,110.44,Occasional
+2025-10-22,2025-10,Expense,Personal care,Hairdresser and personal care,31.78,Variable
+2025-10-23,2025-10,Expense,Dining out,Restaurant or takeaway,54.14,Variable
+2025-10-24,2025-10,Expense,Groceries,Supermarket shopping,99.35,Variable
+2025-10-24,2025-10,Expense,Leisure,"Cinema, books and activities",82.84,Variable
+2025-10-27,2025-10,Income,Employment,Net monthly salary,2900.0,Monthly
+2025-11-02,2025-11,Expense,Housing,Rent,1090.0,Monthly
+2025-11-03,2025-11,Expense,Groceries,Supermarket shopping,75.4,Variable
+2025-11-04,2025-11,Expense,Housing,Condominium fees,120.0,Monthly
+2025-11-05,2025-11,Expense,Dining out,Restaurant or takeaway,61.09,Variable
+2025-11-05,2025-11,Income,Rental income,Apartment rental income,595.0,Monthly
+2025-11-06,2025-11,Expense,Transport,"Fuel, taxi or local transport",43.79,Variable
+2025-11-07,2025-11,Expense,Utilities,Electricity bill,98.55,Monthly
+2025-11-08,2025-11,Expense,Utilities,Gas bill,149.41,Monthly
+2025-11-09,2025-11,Expense,Utilities,Water bill,30.29,Monthly
+2025-11-10,2025-11,Expense,Groceries,Supermarket shopping,112.75,Variable
+2025-11-10,2025-11,Expense,Utilities,Home internet,31.9,Monthly
+2025-11-11,2025-11,Expense,Utilities,Mobile phone,15.9,Monthly
+2025-11-12,2025-11,Expense,Household,Cleaning and household supplies,29.66,Variable
+2025-11-13,2025-11,Expense,Transport,Public transport pass,39.0,Monthly
+2025-11-14,2025-11,Expense,Dining out,Restaurant or takeaway,32.75,Variable
+2025-11-14,2025-11,Expense,Insurance,Health insurance premium,78.0,Monthly
+2025-11-15,2025-11,Expense,Subscriptions,Video streaming,13.99,Monthly
+2025-11-15,2025-11,Expense,Subscriptions,Music streaming,10.99,Monthly
+2025-11-16,2025-11,Expense,Subscriptions,Cloud storage,2.99,Monthly
+2025-11-17,2025-11,Expense,Groceries,Supermarket shopping,84.26,Variable
+2025-11-17,2025-11,Expense,Subscriptions,Gym membership,49.0,Monthly
+2025-11-18,2025-11,Expense,Financial services,Bank account fees,6.0,Monthly
+2025-11-18,2025-11,Expense,Healthcare,Pharmacy or medical visit,80.7,Occasional
+2025-11-19,2025-11,Expense,Healthcare,Specialist dental treatment,1950.0,Occasional
+2025-11-20,2025-11,Expense,Transport,"Fuel, taxi or local transport",24.0,Variable
+2025-11-21,2025-11,Expense,Shopping,Clothing and personal purchases,139.34,Occasional
+2025-11-22,2025-11,Expense,Personal care,Hairdresser and personal care,46.48,Variable
+2025-11-23,2025-11,Expense,Dining out,Restaurant or takeaway,30.04,Variable
+2025-11-24,2025-11,Expense,Groceries,Supermarket shopping,81.58,Variable
+2025-11-24,2025-11,Expense,Leisure,"Cinema, books and activities",84.83,Variable
+2025-11-27,2025-11,Income,Employment,Net monthly salary,2975.0,Monthly
+2025-12-02,2025-12,Expense,Housing,Rent,1090.0,Monthly
+2025-12-03,2025-12,Expense,Groceries,Supermarket shopping,102.87,Variable
+2025-12-04,2025-12,Expense,Housing,Condominium fees,120.0,Monthly
+2025-12-05,2025-12,Expense,Dining out,Restaurant or takeaway,24.67,Variable
+2025-12-05,2025-12,Income,Rental income,Apartment rental income,595.0,Monthly
+2025-12-06,2025-12,Expense,Transport,"Fuel, taxi or local transport",45.73,Variable
+2025-12-07,2025-12,Expense,Utilities,Electricity bill,75.12,Monthly
+2025-12-08,2025-12,Expense,Utilities,Gas bill,60.22,Monthly
+2025-12-09,2025-12,Expense,Utilities,Water bill,21.7,Monthly
+2025-12-10,2025-12,Expense,Groceries,Supermarket shopping,112.94,Variable
+2025-12-10,2025-12,Expense,Utilities,Home internet,31.9,Monthly
+2025-12-11,2025-12,Expense,Utilities,Mobile phone,15.9,Monthly
+2025-12-12,2025-12,Expense,Household,Cleaning and household supplies,49.05,Variable
+2025-12-13,2025-12,Expense,Transport,Public transport pass,39.0,Monthly
+2025-12-14,2025-12,Expense,Dining out,Restaurant or takeaway,28.44,Variable
+2025-12-14,2025-12,Expense,Insurance,Health insurance premium,78.0,Monthly
+2025-12-15,2025-12,Expense,Subscriptions,Video streaming,13.99,Monthly
+2025-12-15,2025-12,Expense,Subscriptions,Music streaming,10.99,Monthly
+2025-12-16,2025-12,Expense,Subscriptions,Cloud storage,2.99,Monthly
+2025-12-17,2025-12,Expense,Groceries,Supermarket shopping,115.01,Variable
+2025-12-17,2025-12,Expense,Subscriptions,Gym membership,49.0,Monthly
+2025-12-18,2025-12,Expense,Financial services,Bank account fees,6.0,Monthly
+2025-12-20,2025-12,Expense,Transport,"Fuel, taxi or local transport",33.61,Variable
+2025-12-20,2025-12,Income,Employment,Year-end bonus,1770.0,Annual
+2025-12-22,2025-12,Expense,Personal care,Hairdresser and personal care,40.2,Variable
+2025-12-23,2025-12,Expense,Dining out,Restaurant or takeaway,32.96,Variable
+2025-12-23,2025-12,Expense,Gifts,Holiday gifts and celebrations,466.23,Annual
+2025-12-24,2025-12,Expense,Groceries,Supermarket shopping,93.8,Variable
+2025-12-24,2025-12,Expense,Leisure,"Cinema, books and activities",20.89,Variable
+2025-12-27,2025-12,Income,Employment,Net monthly salary,2975.0,Monthly
+2026-01-02,2026-01,Expense,Housing,Rent,1090.0,Monthly
+2026-01-03,2026-01,Expense,Groceries,Supermarket shopping,100.54,Variable
+2026-01-04,2026-01,Expense,Housing,Condominium fees,120.0,Monthly
+2026-01-05,2026-01,Expense,Dining out,Restaurant or takeaway,38.15,Variable
+2026-01-05,2026-01,Income,Rental income,Apartment rental income,595.0,Monthly
+2026-01-06,2026-01,Expense,Transport,"Fuel, taxi or local transport",58.81,Variable
+2026-01-07,2026-01,Expense,Utilities,Electricity bill,83.58,Monthly
+2026-01-08,2026-01,Expense,Utilities,Gas bill,152.29,Monthly
+2026-01-09,2026-01,Expense,Utilities,Water bill,21.38,Monthly
+2026-01-10,2026-01,Expense,Groceries,Supermarket shopping,113.3,Variable
+2026-01-10,2026-01,Expense,Utilities,Home internet,31.9,Monthly
+2026-01-11,2026-01,Expense,Insurance,Car insurance installment,320.0,Semiannual
+2026-01-11,2026-01,Expense,Utilities,Mobile phone,15.9,Monthly
+2026-01-12,2026-01,Expense,Household,Cleaning and household supplies,50.99,Variable
+2026-01-13,2026-01,Expense,Transport,Public transport pass,39.0,Monthly
+2026-01-14,2026-01,Expense,Dining out,Restaurant or takeaway,31.48,Variable
+2026-01-14,2026-01,Expense,Insurance,Health insurance premium,78.0,Monthly
+2026-01-15,2026-01,Expense,Subscriptions,Video streaming,13.99,Monthly
+2026-01-15,2026-01,Expense,Subscriptions,Music streaming,10.99,Monthly
+2026-01-16,2026-01,Expense,Subscriptions,Cloud storage,2.99,Monthly
+2026-01-17,2026-01,Expense,Groceries,Supermarket shopping,88.45,Variable
+2026-01-17,2026-01,Expense,Subscriptions,Gym membership,49.0,Monthly
+2026-01-18,2026-01,Expense,Financial services,Bank account fees,6.0,Monthly
+2026-01-20,2026-01,Expense,Transport,"Fuel, taxi or local transport",60.63,Variable
+2026-01-21,2026-01,Expense,Shopping,Clothing and personal purchases,91.76,Occasional
+2026-01-22,2026-01,Expense,Personal care,Hairdresser and personal care,27.05,Variable
+2026-01-23,2026-01,Expense,Dining out,Restaurant or takeaway,31.28,Variable
+2026-01-24,2026-01,Expense,Groceries,Supermarket shopping,95.03,Variable
+2026-01-24,2026-01,Expense,Leisure,"Cinema, books and activities",92.88,Variable
+2026-01-27,2026-01,Income,Employment,Net monthly salary,2975.0,Monthly
+2026-02-02,2026-02,Expense,Housing,Rent,1090.0,Monthly
+2026-02-03,2026-02,Expense,Groceries,Supermarket shopping,105.98,Variable
+2026-02-04,2026-02,Expense,Housing,Condominium fees,120.0,Monthly
+2026-02-05,2026-02,Expense,Dining out,Restaurant or takeaway,64.35,Variable
+2026-02-05,2026-02,Income,Rental income,Apartment rental income,595.0,Monthly
+2026-02-06,2026-02,Expense,Transport,"Fuel, taxi or local transport",39.13,Variable
+2026-02-07,2026-02,Expense,Utilities,Electricity bill,63.16,Monthly
+2026-02-08,2026-02,Expense,Utilities,Gas bill,100.52,Monthly
+2026-02-09,2026-02,Expense,Utilities,Water bill,28.61,Monthly
+2026-02-10,2026-02,Expense,Groceries,Supermarket shopping,85.81,Variable
+2026-02-10,2026-02,Expense,Utilities,Home internet,31.9,Monthly
+2026-02-11,2026-02,Expense,Utilities,Mobile phone,15.9,Monthly
+2026-02-12,2026-02,Expense,Household,Cleaning and household supplies,46.2,Variable
+2026-02-13,2026-02,Expense,Transport,Public transport pass,39.0,Monthly
+2026-02-14,2026-02,Expense,Dining out,Restaurant or takeaway,46.15,Variable
+2026-02-14,2026-02,Expense,Insurance,Health insurance premium,78.0,Monthly
+2026-02-15,2026-02,Expense,Subscriptions,Video streaming,13.99,Monthly
+2026-02-15,2026-02,Expense,Subscriptions,Music streaming,10.99,Monthly
+2026-02-16,2026-02,Expense,Subscriptions,Cloud storage,2.99,Monthly
+2026-02-17,2026-02,Expense,Groceries,Supermarket shopping,118.04,Variable
+2026-02-17,2026-02,Expense,Subscriptions,Gym membership,49.0,Monthly
+2026-02-18,2026-02,Expense,Financial services,Bank account fees,6.0,Monthly
+2026-02-20,2026-02,Expense,Transport,"Fuel, taxi or local transport",48.3,Variable
+2026-02-21,2026-02,Expense,Shopping,Clothing and personal purchases,178.16,Occasional
+2026-02-22,2026-02,Expense,Personal care,Hairdresser and personal care,30.62,Variable
+2026-02-23,2026-02,Expense,Dining out,Restaurant or takeaway,28.59,Variable
+2026-02-24,2026-02,Expense,Groceries,Supermarket shopping,110.53,Variable
+2026-02-24,2026-02,Expense,Leisure,"Cinema, books and activities",93.35,Variable
+2026-02-27,2026-02,Income,Employment,Net monthly salary,2975.0,Monthly
+2026-03-02,2026-03,Expense,Housing,Rent,1090.0,Monthly
+2026-03-03,2026-03,Expense,Groceries,Supermarket shopping,97.45,Variable
+2026-03-04,2026-03,Expense,Housing,Condominium fees,120.0,Monthly
+2026-03-05,2026-03,Expense,Dining out,Restaurant or takeaway,54.22,Variable
+2026-03-05,2026-03,Income,Rental income,Apartment rental income,595.0,Monthly
+2026-03-06,2026-03,Expense,Transport,"Fuel, taxi or local transport",34.24,Variable
+2026-03-07,2026-03,Expense,Utilities,Electricity bill,88.37,Monthly
+2026-03-08,2026-03,Expense,Utilities,Gas bill,43.02,Monthly
+2026-03-09,2026-03,Expense,Transport,Car maintenance and inspection,242.9,Annual
+2026-03-09,2026-03,Expense,Utilities,Water bill,20.58,Monthly
+2026-03-10,2026-03,Expense,Groceries,Supermarket shopping,83.98,Variable
+2026-03-10,2026-03,Expense,Utilities,Home internet,31.9,Monthly
+2026-03-11,2026-03,Expense,Utilities,Mobile phone,15.9,Monthly
+2026-03-12,2026-03,Expense,Household,Cleaning and household supplies,40.39,Variable
+2026-03-12,2026-03,Income,Refunds,Expense reimbursement or tax refund,190.29,Occasional
+2026-03-13,2026-03,Expense,Transport,Public transport pass,39.0,Monthly
+2026-03-14,2026-03,Expense,Dining out,Restaurant or takeaway,38.08,Variable
+2026-03-14,2026-03,Expense,Insurance,Health insurance premium,78.0,Monthly
+2026-03-15,2026-03,Expense,Subscriptions,Video streaming,13.99,Monthly
+2026-03-15,2026-03,Expense,Subscriptions,Music streaming,10.99,Monthly
+2026-03-16,2026-03,Expense,Subscriptions,Cloud storage,2.99,Monthly
+2026-03-17,2026-03,Expense,Groceries,Supermarket shopping,109.65,Variable
+2026-03-17,2026-03,Expense,Subscriptions,Gym membership,49.0,Monthly
+2026-03-18,2026-03,Expense,Financial services,Bank account fees,6.0,Monthly
+2026-03-18,2026-03,Expense,Healthcare,Pharmacy or medical visit,56.14,Occasional
+2026-03-20,2026-03,Expense,Transport,"Fuel, taxi or local transport",30.09,Variable
+2026-03-21,2026-03,Expense,Shopping,Clothing and personal purchases,158.42,Occasional
+2026-03-22,2026-03,Expense,Personal care,Hairdresser and personal care,43.47,Variable
+2026-03-23,2026-03,Expense,Dining out,Restaurant or takeaway,25.1,Variable
+2026-03-24,2026-03,Expense,Groceries,Supermarket shopping,87.57,Variable
+2026-03-24,2026-03,Expense,Leisure,"Cinema, books and activities",25.43,Variable
+2026-03-27,2026-03,Income,Employment,Net monthly salary,2975.0,Monthly
+2026-04-02,2026-04,Expense,Housing,Rent,1090.0,Monthly
+2026-04-03,2026-04,Expense,Groceries,Supermarket shopping,116.32,Variable
+2026-04-04,2026-04,Expense,Housing,Condominium fees,120.0,Monthly
+2026-04-05,2026-04,Expense,Dining out,Restaurant or takeaway,23.98,Variable
+2026-04-05,2026-04,Income,Rental income,Apartment rental income,595.0,Monthly
+2026-04-06,2026-04,Expense,Transport,"Fuel, taxi or local transport",22.7,Variable
+2026-04-07,2026-04,Expense,Utilities,Electricity bill,59.76,Monthly
+2026-04-08,2026-04,Expense,Utilities,Gas bill,61.17,Monthly
+2026-04-09,2026-04,Expense,Utilities,Water bill,25.45,Monthly
+2026-04-10,2026-04,Expense,Groceries,Supermarket shopping,86.3,Variable
+2026-04-10,2026-04,Expense,Utilities,Home internet,31.9,Monthly
+2026-04-11,2026-04,Expense,Utilities,Mobile phone,15.9,Monthly
+2026-04-12,2026-04,Expense,Household,Cleaning and household supplies,51.92,Variable
+2026-04-13,2026-04,Expense,Transport,Public transport pass,39.0,Monthly
+2026-04-14,2026-04,Expense,Dining out,Restaurant or takeaway,34.35,Variable
+2026-04-14,2026-04,Expense,Insurance,Health insurance premium,78.0,Monthly
+2026-04-15,2026-04,Expense,Subscriptions,Video streaming,13.99,Monthly
+2026-04-15,2026-04,Expense,Subscriptions,Music streaming,10.99,Monthly
+2026-04-16,2026-04,Expense,Subscriptions,Cloud storage,2.99,Monthly
+2026-04-17,2026-04,Expense,Groceries,Supermarket shopping,115.73,Variable
+2026-04-17,2026-04,Expense,Subscriptions,Gym membership,49.0,Monthly
+2026-04-18,2026-04,Expense,Financial services,Bank account fees,6.0,Monthly
+2026-04-20,2026-04,Expense,Taxes,Local property taxes and fees,425.0,Annual
+2026-04-20,2026-04,Expense,Transport,"Fuel, taxi or local transport",18.03,Variable
+2026-04-21,2026-04,Expense,Shopping,Clothing and personal purchases,141.87,Occasional
+2026-04-22,2026-04,Expense,Personal care,Hairdresser and personal care,40.59,Variable
+2026-04-23,2026-04,Expense,Dining out,Restaurant or takeaway,23.74,Variable
+2026-04-24,2026-04,Expense,Groceries,Supermarket shopping,89.88,Variable
+2026-04-24,2026-04,Expense,Leisure,"Cinema, books and activities",65.61,Variable
+2026-04-27,2026-04,Income,Employment,Net monthly salary,2975.0,Monthly
+2026-05-02,2026-05,Expense,Housing,Rent,1090.0,Monthly
+2026-05-03,2026-05,Expense,Groceries,Supermarket shopping,118.45,Variable
+2026-05-04,2026-05,Expense,Housing,Condominium fees,120.0,Monthly
+2026-05-05,2026-05,Expense,Dining out,Restaurant or takeaway,47.3,Variable
+2026-05-05,2026-05,Income,Rental income,Apartment rental income,595.0,Monthly
+2026-05-06,2026-05,Expense,Transport,"Fuel, taxi or local transport",33.2,Variable
+2026-05-07,2026-05,Expense,Utilities,Electricity bill,56.26,Monthly
+2026-05-08,2026-05,Expense,Utilities,Gas bill,41.08,Monthly
+2026-05-09,2026-05,Expense,Utilities,Water bill,26.92,Monthly
+2026-05-10,2026-05,Expense,Groceries,Supermarket shopping,112.11,Variable
+2026-05-10,2026-05,Expense,Utilities,Home internet,31.9,Monthly
+2026-05-11,2026-05,Expense,Utilities,Mobile phone,15.9,Monthly
+2026-05-12,2026-05,Expense,Household,Cleaning and household supplies,55.98,Variable
+2026-05-13,2026-05,Expense,Transport,Public transport pass,39.0,Monthly
+2026-05-14,2026-05,Expense,Dining out,Restaurant or takeaway,46.71,Variable
+2026-05-14,2026-05,Expense,Insurance,Health insurance premium,78.0,Monthly
+2026-05-15,2026-05,Expense,Subscriptions,Video streaming,13.99,Monthly
+2026-05-15,2026-05,Expense,Subscriptions,Music streaming,10.99,Monthly
+2026-05-16,2026-05,Expense,Subscriptions,Cloud storage,2.99,Monthly
+2026-05-17,2026-05,Expense,Groceries,Supermarket shopping,80.73,Variable
+2026-05-17,2026-05,Expense,Subscriptions,Gym membership,49.0,Monthly
+2026-05-18,2026-05,Expense,Financial services,Bank account fees,6.0,Monthly
+2026-05-18,2026-05,Expense,Healthcare,Pharmacy or medical visit,29.06,Occasional
+2026-05-20,2026-05,Expense,Transport,"Fuel, taxi or local transport",29.06,Variable
+2026-05-20,2026-05,Expense,Unexpected expenses,Emergency car repair,980.0,Occasional
+2026-05-21,2026-05,Expense,Shopping,Clothing and personal purchases,167.73,Occasional
+2026-05-22,2026-05,Expense,Personal care,Hairdresser and personal care,45.57,Variable
+2026-05-23,2026-05,Expense,Dining out,Restaurant or takeaway,61.15,Variable
+2026-05-24,2026-05,Expense,Groceries,Supermarket shopping,102.23,Variable
+2026-05-24,2026-05,Expense,Leisure,"Cinema, books and activities",84.12,Variable
+2026-05-27,2026-05,Income,Employment,Net monthly salary,2975.0,Monthly
+2026-06-02,2026-06,Expense,Housing,Rent,1090.0,Monthly
+2026-06-03,2026-06,Expense,Groceries,Supermarket shopping,117.01,Variable
+2026-06-04,2026-06,Expense,Housing,Condominium fees,120.0,Monthly
+2026-06-05,2026-06,Expense,Dining out,Restaurant or takeaway,46.38,Variable
+2026-06-05,2026-06,Income,Rental income,Apartment rental income,595.0,Monthly
+2026-06-06,2026-06,Expense,Transport,"Fuel, taxi or local transport",40.31,Variable
+2026-06-07,2026-06,Expense,Utilities,Electricity bill,61.19,Monthly
+2026-06-08,2026-06,Expense,Utilities,Gas bill,27.24,Monthly
+2026-06-09,2026-06,Expense,Utilities,Water bill,30.66,Monthly
+2026-06-10,2026-06,Expense,Groceries,Supermarket shopping,112.83,Variable
+2026-06-10,2026-06,Expense,Utilities,Home internet,31.9,Monthly
+2026-06-11,2026-06,Expense,Utilities,Mobile phone,15.9,Monthly
+2026-06-12,2026-06,Expense,Household,Cleaning and household supplies,19.6,Variable
+2026-06-13,2026-06,Expense,Transport,Public transport pass,39.0,Monthly
+2026-06-14,2026-06,Expense,Dining out,Restaurant or takeaway,20.15,Variable
+2026-06-14,2026-06,Expense,Insurance,Health insurance premium,78.0,Monthly
+2026-06-15,2026-06,Expense,Subscriptions,Video streaming,13.99,Monthly
+2026-06-15,2026-06,Expense,Subscriptions,Music streaming,10.99,Monthly
+2026-06-16,2026-06,Expense,Subscriptions,Cloud storage,2.99,Monthly
+2026-06-17,2026-06,Expense,Groceries,Supermarket shopping,86.8,Variable
+2026-06-17,2026-06,Expense,Subscriptions,Gym membership,49.0,Monthly
+2026-06-18,2026-06,Expense,Financial services,Bank account fees,6.0,Monthly
+2026-06-20,2026-06,Expense,Transport,"Fuel, taxi or local transport",26.06,Variable
+2026-06-21,2026-06,Expense,Shopping,Clothing and personal purchases,176.17,Occasional
+2026-06-22,2026-06,Expense,Personal care,Hairdresser and personal care,41.9,Variable
+2026-06-23,2026-06,Expense,Dining out,Restaurant or takeaway,21.51,Variable
+2026-06-24,2026-06,Expense,Groceries,Supermarket shopping,117.96,Variable
+2026-06-24,2026-06,Expense,Leisure,"Cinema, books and activities",63.99,Variable
+2026-06-25,2026-06,Expense,Technology,Laptop or smartphone replacement,780.0,Occasional
+2026-06-25,2026-06,Income,Employment,Performance bonus,930.0,Annual
+2026-06-27,2026-06,Income,Employment,Net monthly salary,2975.0,Monthly
+2026-07-02,2026-07,Expense,Housing,Rent,1090.0,Monthly
+2026-07-03,2026-07,Expense,Groceries,Supermarket shopping,113.94,Variable
+2026-07-04,2026-07,Expense,Housing,Condominium fees,120.0,Monthly
+2026-07-05,2026-07,Expense,Dining out,Restaurant or takeaway,26.16,Variable
+2026-07-05,2026-07,Income,Rental income,Apartment rental income,595.0,Monthly
+2026-07-06,2026-07,Expense,Transport,"Fuel, taxi or local transport",56.28,Variable
+2026-07-07,2026-07,Expense,Utilities,Electricity bill,89.5,Monthly
+2026-07-08,2026-07,Expense,Utilities,Gas bill,57.28,Monthly
+2026-07-09,2026-07,Expense,Utilities,Water bill,23.0,Monthly
+2026-07-10,2026-07,Expense,Groceries,Supermarket shopping,85.77,Variable
+2026-07-10,2026-07,Expense,Utilities,Home internet,31.9,Monthly
+2026-07-11,2026-07,Expense,Insurance,Car insurance installment,320.0,Semiannual
+2026-07-11,2026-07,Expense,Utilities,Mobile phone,15.9,Monthly
+2026-07-12,2026-07,Expense,Household,Cleaning and household supplies,50.16,Variable
+2026-07-13,2026-07,Expense,Transport,Public transport pass,39.0,Monthly
+2026-07-14,2026-07,Expense,Dining out,Restaurant or takeaway,35.45,Variable
+2026-07-14,2026-07,Expense,Insurance,Health insurance premium,78.0,Monthly
+2026-07-15,2026-07,Expense,Subscriptions,Video streaming,13.99,Monthly
+2026-07-15,2026-07,Expense,Subscriptions,Music streaming,10.99,Monthly
+2026-07-16,2026-07,Expense,Subscriptions,Cloud storage,2.99,Monthly
+2026-07-17,2026-07,Expense,Groceries,Supermarket shopping,94.3,Variable
+2026-07-17,2026-07,Expense,Subscriptions,Gym membership,49.0,Monthly
+2026-07-18,2026-07,Expense,Financial services,Bank account fees,6.0,Monthly
+2026-07-18,2026-07,Expense,Healthcare,Pharmacy or medical visit,19.26,Occasional
+2026-07-20,2026-07,Expense,Transport,"Fuel, taxi or local transport",38.09,Variable
+2026-07-22,2026-07,Expense,Personal care,Hairdresser and personal care,32.15,Variable
+2026-07-23,2026-07,Expense,Dining out,Restaurant or takeaway,37.77,Variable
+2026-07-24,2026-07,Expense,Groceries,Supermarket shopping,99.41,Variable
+2026-07-24,2026-07,Expense,Leisure,"Cinema, books and activities",33.99,Variable
+2026-07-27,2026-07,Income,Employment,Net monthly salary,2975.0,Monthly
+2026-08-02,2026-08,Expense,Housing,Rent,1090.0,Monthly
+2026-08-03,2026-08,Expense,Groceries,Supermarket shopping,70.69,Variable
+2026-08-04,2026-08,Expense,Housing,Condominium fees,120.0,Monthly
+2026-08-05,2026-08,Expense,Dining out,Restaurant or takeaway,31.3,Variable
+2026-08-05,2026-08,Income,Rental income,Apartment rental income,595.0,Monthly
+2026-08-06,2026-08,Expense,Transport,"Fuel, taxi or local transport",26.4,Variable
+2026-08-07,2026-08,Expense,Utilities,Electricity bill,93.93,Monthly
+2026-08-08,2026-08,Expense,Utilities,Gas bill,33.34,Monthly
+2026-08-09,2026-08,Expense,Utilities,Water bill,21.99,Monthly
+2026-08-10,2026-08,Expense,Groceries,Supermarket shopping,89.25,Variable
+2026-08-10,2026-08,Expense,Utilities,Home internet,31.9,Monthly
+2026-08-11,2026-08,Expense,Utilities,Mobile phone,15.9,Monthly
+2026-08-12,2026-08,Expense,Household,Cleaning and household supplies,30.3,Variable
+2026-08-12,2026-08,Income,Refunds,Expense reimbursement or tax refund,141.9,Occasional
+2026-08-13,2026-08,Expense,Transport,Public transport pass,39.0,Monthly
+2026-08-14,2026-08,Expense,Dining out,Restaurant or takeaway,64.18,Variable
+2026-08-14,2026-08,Expense,Insurance,Health insurance premium,78.0,Monthly
+2026-08-14,2026-08,Expense,Travel,Summer holiday accommodation and travel,1130.78,Annual
+2026-08-15,2026-08,Expense,Subscriptions,Video streaming,13.99,Monthly
+2026-08-15,2026-08,Expense,Subscriptions,Music streaming,10.99,Monthly
+2026-08-16,2026-08,Expense,Subscriptions,Cloud storage,2.99,Monthly
+2026-08-17,2026-08,Expense,Groceries,Supermarket shopping,70.61,Variable
+2026-08-17,2026-08,Expense,Subscriptions,Gym membership,49.0,Monthly
+2026-08-18,2026-08,Expense,Financial services,Bank account fees,6.0,Monthly
+2026-08-20,2026-08,Expense,Transport,"Fuel, taxi or local transport",31.71,Variable
+2026-08-21,2026-08,Expense,Shopping,Clothing and personal purchases,45.49,Occasional
+2026-08-21,2026-08,Expense,Travel,Unexpected travel and accommodation costs,1750.0,Occasional
+2026-08-22,2026-08,Expense,Personal care,Hairdresser and personal care,31.02,Variable
+2026-08-23,2026-08,Expense,Dining out,Restaurant or takeaway,41.96,Variable
+2026-08-24,2026-08,Expense,Groceries,Supermarket shopping,89.21,Variable
+2026-08-24,2026-08,Expense,Leisure,"Cinema, books and activities",68.88,Variable
+2026-08-27,2026-08,Income,Employment,Net monthly salary,2975.0,Monthly
+2026-09-02,2026-09,Expense,Housing,Rent,1090.0,Monthly
+2026-09-03,2026-09,Expense,Groceries,Supermarket shopping,110.73,Variable
+2026-09-04,2026-09,Expense,Housing,Condominium fees,120.0,Monthly
+2026-09-05,2026-09,Expense,Dining out,Restaurant or takeaway,33.45,Variable
+2026-09-05,2026-09,Income,Rental income,Apartment rental income,595.0,Monthly
+2026-09-06,2026-09,Expense,Transport,"Fuel, taxi or local transport",45.15,Variable
+2026-09-07,2026-09,Expense,Utilities,Electricity bill,60.2,Monthly
+2026-09-08,2026-09,Expense,Utilities,Gas bill,41.07,Monthly
+2026-09-09,2026-09,Expense,Utilities,Water bill,23.08,Monthly
+2026-09-10,2026-09,Expense,Education,Professional course or training,475.27,Annual
+2026-09-10,2026-09,Expense,Groceries,Supermarket shopping,111.27,Variable
+2026-09-10,2026-09,Expense,Utilities,Home internet,31.9,Monthly
+2026-09-11,2026-09,Expense,Utilities,Mobile phone,15.9,Monthly
+2026-09-12,2026-09,Expense,Household,Cleaning and household supplies,28.31,Variable
+2026-09-13,2026-09,Expense,Transport,Public transport pass,39.0,Monthly
+2026-09-14,2026-09,Expense,Dining out,Restaurant or takeaway,18.2,Variable
+2026-09-14,2026-09,Expense,Insurance,Health insurance premium,78.0,Monthly
+2026-09-15,2026-09,Expense,Subscriptions,Video streaming,13.99,Monthly
+2026-09-15,2026-09,Expense,Subscriptions,Music streaming,10.99,Monthly
+2026-09-16,2026-09,Expense,Subscriptions,Cloud storage,2.99,Monthly
+2026-09-17,2026-09,Expense,Groceries,Supermarket shopping,99.49,Variable
+2026-09-17,2026-09,Expense,Subscriptions,Gym membership,49.0,Monthly
+2026-09-18,2026-09,Expense,Financial services,Bank account fees,6.0,Monthly
+2026-09-20,2026-09,Expense,Transport,"Fuel, taxi or local transport",29.16,Variable
+2026-09-20,2026-09,Expense,Unexpected expenses,Home plumbing repair,650.0,Occasional
+2026-09-22,2026-09,Expense,Personal care,Hairdresser and personal care,38.39,Variable
+2026-09-23,2026-09,Expense,Dining out,Restaurant or takeaway,26.58,Variable
+2026-09-24,2026-09,Expense,Groceries,Supermarket shopping,102.9,Variable
+2026-09-24,2026-09,Expense,Leisure,"Cinema, books and activities",48.7,Variable
+2026-09-27,2026-09,Income,Employment,Net monthly salary,2975.0,Monthly
+2026-10-02,2026-10,Expense,Housing,Rent,1090.0,Monthly
+2026-10-03,2026-10,Expense,Groceries,Supermarket shopping,72.8,Variable
+2026-10-04,2026-10,Expense,Housing,Condominium fees,120.0,Monthly
+2026-10-05,2026-10,Expense,Dining out,Restaurant or takeaway,39.56,Variable
+2026-10-05,2026-10,Income,Rental income,Apartment rental income,595.0,Monthly
+2026-10-06,2026-10,Expense,Transport,"Fuel, taxi or local transport",45.24,Variable
+2026-10-07,2026-10,Expense,Utilities,Electricity bill,82.98,Monthly
+2026-10-08,2026-10,Expense,Utilities,Gas bill,31.61,Monthly
+2026-10-09,2026-10,Expense,Utilities,Water bill,19.57,Monthly
+2026-10-10,2026-10,Expense,Groceries,Supermarket shopping,118.46,Variable
+2026-10-10,2026-10,Expense,Utilities,Home internet,31.9,Monthly
+2026-10-11,2026-10,Expense,Utilities,Mobile phone,15.9,Monthly
+2026-10-12,2026-10,Expense,Household,Cleaning and household supplies,52.06,Variable
+2026-10-13,2026-10,Expense,Transport,Public transport pass,39.0,Monthly
+2026-10-14,2026-10,Expense,Dining out,Restaurant or takeaway,26.93,Variable
+2026-10-14,2026-10,Expense,Insurance,Health insurance premium,78.0,Monthly
+2026-10-15,2026-10,Expense,Subscriptions,Video streaming,13.99,Monthly
+2026-10-15,2026-10,Expense,Subscriptions,Music streaming,10.99,Monthly
+2026-10-16,2026-10,Expense,Subscriptions,Cloud storage,2.99,Monthly
+2026-10-17,2026-10,Expense,Groceries,Supermarket shopping,117.76,Variable
+2026-10-17,2026-10,Expense,Subscriptions,Gym membership,49.0,Monthly
+2026-10-18,2026-10,Expense,Financial services,Bank account fees,6.0,Monthly
+2026-10-18,2026-10,Expense,Healthcare,Pharmacy or medical visit,95.48,Occasional
+2026-10-20,2026-10,Expense,Transport,"Fuel, taxi or local transport",34.97,Variable
+2026-10-21,2026-10,Expense,Shopping,Clothing and personal purchases,136.43,Occasional
+2026-10-22,2026-10,Expense,Personal care,Hairdresser and personal care,59.16,Variable
+2026-10-23,2026-10,Expense,Dining out,Restaurant or takeaway,28.68,Variable
+2026-10-24,2026-10,Expense,Groceries,Supermarket shopping,71.32,Variable
+2026-10-24,2026-10,Expense,Leisure,"Cinema, books and activities",73.59,Variable
+2026-10-27,2026-10,Income,Employment,Net monthly salary,2975.0,Monthly
+2026-10-28,2026-10,Expense,Travel,Weekend trip,419.95,Occasional
